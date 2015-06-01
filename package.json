@@ -14,7 +14,8 @@
         "lint": "jshint lib && jshint test"
     },
     "dependencies": {
-        "phantomjs": "^1.9.16"
+        "phantomjs": "^1.9.16",
+        "fetch": "^0.3.6"
     },
     "devDependencies": {
         "chai": "^2.2.0",
